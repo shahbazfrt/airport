@@ -15,15 +15,19 @@ Methods included in this API
 1- ADD
 TYPE : POST
 <http://localhost/airport/add>
+
 2- UPDATE
 TYPE : POST
 <http://localhost/airport/update>
+
 3- DELETE
 TYPE : POST
 <http://localhost/airport/delete>
+
 4-GET
 TYPE : POST
 <http://localhost/airport/all>
+
 5-SEARCH
 <http://localhost/airport/search>
 TYPE : GET
@@ -32,9 +36,11 @@ TYPE : GET
 USERS 
 *****************************
 Table name = users
+
 1- ADMIN ROLE 
 user name = shahbaz.admin
 user id   = 1
+
 2- ADMIN USER
 user name = shahbaz.user
 user id   = 2
@@ -81,11 +87,11 @@ SO LICENSE GOES TO THIS COMPANY
 Resources
 *********
 
--  `User Guide <https://codeigniter.com/docs>`_
+User Guide <http://localhost/airport/documentation>
 
 ***************
 Acknowledgement
 ***************
 
-I would like to thank EllisLab, all the
+I would like to thank coreaxioum, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
