@@ -29,8 +29,9 @@ TYPE : POST
 <http://localhost/airport/all>
 
 5-SEARCH
-<http://localhost/airport/search>
 TYPE : GET
+<http://localhost/airport/search>
+
 
 *****************************
 USERS 
@@ -93,5 +94,5 @@ User Guide <http://localhost/airport/documentation>
 Acknowledgement
 ***************
 
-I would like to thank coreaxioum, all the
+I would like to thank careaxioum, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
