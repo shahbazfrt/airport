@@ -14,18 +14,18 @@ Methods included in this API
 
 1- ADD
 TYPE : POST
-<http://localhost/airport/add>`.
+<http://localhost/airport/add>
 2- UPDATE
 TYPE : POST
-<http://localhost/airport/update>`.
+<http://localhost/airport/update>
 3- DELETE
 TYPE : POST
-<http://localhost/airport/delete>`.
+<http://localhost/airport/delete>
 4-GET
 TYPE : POST
-<http://localhost/airport/all>`.
+<http://localhost/airport/all>
 5-SEARCH
-<http://localhost/airport/search>`.
+<http://localhost/airport/search>
 TYPE : GET
 
 *****************************
