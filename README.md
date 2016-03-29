@@ -6,7 +6,7 @@ WELCOME TO AIRPORT API
 
 Author: shahbaz 
 shahbazbsit16@gmail.com
-
+(We assume here that user id is unique else we can also use API key for this. Or for more tight security we can use user id and API key both as Pair)..
 
 *****************************
 Methods included in this API
